@@ -15,3 +15,8 @@ Paper: [Weakly-supervised convolutional learning for detection of inflammatory g
 
 [A deep convolutional neural network for bleeding detection in wireless capsule endoscopy images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7590783).
 
+## 2019 ISBI (Saliency-aware):
+Paper: [A SALIENCY-AWARE HYBRID DENSE NETWORK FOR BLEEDING DETECTION IN WIRELESS CAPSULE ENDOSCOPY IMAGES](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8759401).
+
+## 2019 MICCAI (Triple ANet):
+Paper: [Triple ANet: Adaptive Abnormal-aware Attention Network for WCE Image Classification](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32239-7_33.pdf).
